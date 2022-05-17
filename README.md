@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MtOwlest
-- 👀 I’m interested in VR Development, and being a programmer.
+- 👀 I’m interested in helping people, and learning more languages!
 - 🌱 I’m currently learning C# and want to learn C++
-- 💞️ I’m looking to collaborate on vr games.
 - 📫 How to reach me: rajaowl1234@gmail.com
 
 <!---
